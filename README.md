@@ -1,0 +1,1 @@
+Searching in array with using linear search & binary search algorithm.
